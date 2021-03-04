@@ -1,0 +1,10 @@
+{
+    "transaction": {
+        "transactionnumber": true,
+          "date_transaction": true,
+          "transmode_code": true,
+          "amount_local": true,
+          "comments": false
+    }
+    
+}
